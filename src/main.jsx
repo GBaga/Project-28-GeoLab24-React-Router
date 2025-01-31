@@ -2,7 +2,7 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router";
 import "./index.css";
-import UserProfile from "./pages/userProfile/userProfile.jsx";
+import UserProfile from "./pages/userProfile/UserProfile.jsx";
 import RootLayout from "./components/rootLayout/RootLayout.jsx";
 import Home from "./pages/Home.jsx";
 import Product from "./pages/product/Product.jsx";
